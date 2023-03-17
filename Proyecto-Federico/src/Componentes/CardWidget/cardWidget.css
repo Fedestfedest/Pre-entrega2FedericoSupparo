@@ -1,0 +1,8 @@
+.cardWidget {
+    display: flex;
+    align-items: center;
+}
+.cardWidget img {
+    width: 40px;
+    height: 40px;
+}
